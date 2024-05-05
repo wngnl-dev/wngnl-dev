@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
-<img src="https://cdna.artstation.com/p/assets/images/images/012/908/058/original/lofe-earth-cat.gif?1537133051" align="center" style="width: 70%"/>
+<img src="[https://cdna.artstation.com/p/assets/images/images/012/908/058/original/lofe-earth-cat.gif?1537133051](https://tenor.com/view/car-cute-kaguya-kaguya-sama-kaguya-sama-love-is-war-gif-18364240)" align="center" style="width: 70%"/>
 </div>  
 
 ## 무엇을 할 수 있나요?
