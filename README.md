@@ -1,10 +1,6 @@
 <div align="center">
     <img src="https://media1.tenor.com/m/lO5B4jQmRm0AAAAC/car-cute.gif" align="center" style="width: 50%"/>
-    <a href="https://github.com/wngnl-dev">
-        <img src="https://github-readme-stats.vercel.app/api?username=wngnl-dev&show_icons=true&hide_border=true&count_private=true" alt="My github stats" style="width: 50%" />
-    </a>
 </div>
-
 
 
 <br><br>
@@ -45,3 +41,8 @@
 </div>
 
 </td></tr></table>  
+
+<br>
+
+# My Status
+[![My github stats](https://github-readme-stats.vercel.app/api?username=wngnl-dev&show_icons=true&hide_border=true&count_private=true)](https://github.com/wngnl-dev)
