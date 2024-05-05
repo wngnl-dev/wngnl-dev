@@ -5,6 +5,10 @@
 
 <br><br>
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=wngnl-dev&show_icons=true&hide_border=true&count_private=true)](https://github.com/wngnl-dev)
+
+<br>
+
 ## 무엇을 할 수 있나요?
 <table><tr><td valign="top" width="33%">
 
