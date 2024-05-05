@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media1.tenor.com/m/lO5B4jQmRm0AAAAC/car-cute.gif" align="center" style="width: 50%"/>
+    <img src="https://media1.tenor.com/m/lO5B4jQmRm0AAAAC/car-cute.gif" align="center" style="width: 100%"/>
 </div>
 
 
