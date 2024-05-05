@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <img src="https://media1.tenor.com/m/lO5B4jQmRm0AAAAC/car-cute.gif" align="center" style="width: 50%"/>
     <br/>
     <a href="https://github.com/wngnl-dev">
