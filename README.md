@@ -6,6 +6,8 @@
 ## 무엇을 할 수 있나요?
 <table><tr><td valign="top" width="33%">
 
+<br/>
+
 ### Language  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
