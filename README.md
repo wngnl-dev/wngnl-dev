@@ -1,9 +1,8 @@
 <p align = "center">
-<img src="https://capsulerender.vercel.app/apitype=venom&height=300&color=gradient&text=Lee%20Jin%20Hyeok&section=header&reversal=false&fontColor=black&textBg=false&descAlign=100&descAlignY=100" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" />
 </p>
-<br>
 
-<br><br>
+<br>
 
 # Things I can do
 <table><tr><td valign="top" width="33%">
