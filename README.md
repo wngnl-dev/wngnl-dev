@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" />
+<img src="https://capsulerender.vercel.app/apitype=venom&height=300&color=gradient&text=Lee%20Jin%20Hyeok&section=header&reversal=false&fontColor=black&textBg=false&descAlign=100&descAlignY=100" />
 </p>
 <br>
 
