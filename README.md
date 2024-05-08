@@ -1,7 +1,7 @@
-<div align="center">
-    <img src="https://media1.tenor.com/m/lO5B4jQmRm0AAAAC/car-cute.gif" align="center" style="width: 100%"/>
-</div>
-
+<p align = "center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" />
+</p>
+<br>
 
 <br><br>
 
