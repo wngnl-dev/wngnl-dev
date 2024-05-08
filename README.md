@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Lee%20Jin%20Hyeok&section=header&reversal=false&fontColor=black&textBg=false&descAlign=100&descAlignY=100" />
 </p>
 
-<br>
-
 # Things I can do
 <table><tr><td valign="top" width="33%">
 
